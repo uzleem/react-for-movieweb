@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/%3Chttps://uzleem.github.io/react-for-movieweb%3E/static/js/main.e7319af3.js",
-    "index.html": "/%3Chttps://uzleem.github.io/react-for-movieweb%3E/index.html",
-    "main.e7319af3.js.map": "/%3Chttps://uzleem.github.io/react-for-movieweb%3E/static/js/main.e7319af3.js.map"
+    "main.js": "/react-for-movieweb/static/js/main.e7319af3.js",
+    "index.html": "/react-for-movieweb/index.html",
+    "main.e7319af3.js.map": "/react-for-movieweb/static/js/main.e7319af3.js.map"
   },
   "entrypoints": [
     "static/js/main.e7319af3.js"
